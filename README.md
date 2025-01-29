@@ -16,8 +16,8 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente en tu sistema:
 - [Python 3.x](https://www.python.org/downloads/)
 - [Git](https://git-scm.com/downloads) (opcional, pero recomendado)
 
-- Estado del proyecto: Concluído.
-
-Contacto
+## Contacto
 
 fabrizioariel1999@gmail.com
+
+## Estado del proyecto: Concluído.
